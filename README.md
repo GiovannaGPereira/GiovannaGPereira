@@ -16,6 +16,6 @@
 
 ##
 <div>
-<img a href = "" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img a href = "https://www.linkedin.com/in/giovanna-gon%C3%A7alves-pereira-a06663218" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   
 </div>
