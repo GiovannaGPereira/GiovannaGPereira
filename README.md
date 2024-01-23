@@ -1,8 +1,8 @@
 # Olá Meu Nome é Giovanna Pereira!
 
 <div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=giovannagpereira&show_icons=true&theme=dracula"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannagpereira&theme=dark"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=GiovannaGPereira&show_icons=true&theme=dracula"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaGPereira&theme=dark"/>
 </div>
 
 <div style = " display: inline-block"><br>
