@@ -1,16 +1,21 @@
-### Hi there 👋
+# Olá Meu Nome é Giovanna Pereira!
 
-<!--
-**GiovannaGPereira/GiovannaGPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=giovannagpereira&show_icons=true&theme=dracula"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannagpereira&theme=dark"/>
+</div>
 
-Here are some ideas to get you started:
+<div style = " display: inline-block"><br>
+  <img  height="35cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>   
+            <img  height="35cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+                <img height="35cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+                 <img height="35cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+          
+                
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<div>
+<img a href = "" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  
+</div>
